@@ -110,6 +110,11 @@
     cursor: pointer;
     transition: all 0.5s;
   }
+
+  .skip{
+    display:flex;
+    flex-direction: column;
+  }
   .btn-card:hover {
     background: #ffffffb9;
     color: #131313;
